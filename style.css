@@ -13,5 +13,13 @@
 .sidepanel {
    margin: 15px;
    float: right;
+   padding: 0px 20px 0px 20px;
 }
 
+
+nav {
+  background-color: #60668B;
+  height: 35px;
+  background-image: url(images/bg_nav.gif);
+  background-repeat: repeat-x;
+}
